@@ -19,4 +19,6 @@
 - try login
 - run back end and finished...
 
+>>Data from submission 2016 [Submission data](dbsql/DB%20HASIL)
+
 >>Watch scoreboard from [cpanel](/cpanel/index.php)
